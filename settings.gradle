@@ -1,0 +1,6 @@
+include ':app', ':interface',
+        ':prism-compiler',
+        ':prism-annotation',
+        ':prism-lib',
+        ':test-submodule1',
+        ':test-submodule2'

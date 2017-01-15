@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndPrism.iml" filepath="$PROJECT_DIR$/AndPrism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prism-annotation/prism-annotation.iml" filepath="$PROJECT_DIR$/prism-annotation/prism-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prism-compiler/prism-compiler.iml" filepath="$PROJECT_DIR$/prism-compiler/prism-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prism-lib/prism-lib.iml" filepath="$PROJECT_DIR$/prism-lib/prism-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-submodule1/test-submodule1.iml" filepath="$PROJECT_DIR$/test-submodule1/test-submodule1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-submodule2/test-submodule2.iml" filepath="$PROJECT_DIR$/test-submodule2/test-submodule2.iml" />
+    </modules>
+  </component>
+</project>
